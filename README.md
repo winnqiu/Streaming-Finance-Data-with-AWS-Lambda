@@ -4,7 +4,7 @@ This project consists of 3 major infrastructure elements, a lambda function that
 
 Here is a diagram of how data flows in this project
 
-![data_flow](https://docs.google.com/drawings/d/1sMkjzCU0bIkpJEZ_AWw3LZqTC5SAhq0MLExluYITStM/edit?usp=sharing)
+![data_flow](assets\dataflow.jpg)
 
 
 
