@@ -4,7 +4,7 @@ This project consists of 3 major infrastructure elements, a lambda function that
 
 Here is a diagram of how data flows in this project
 
-![data_flow](assets\dataflow.jpg)
+<img src='assets\dataflow.jpg'>
 
 
 
