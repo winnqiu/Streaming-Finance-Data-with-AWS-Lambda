@@ -10,7 +10,7 @@ Here is a diagram of how data flows in this project
 
 #### Kinesis Configurations
 
-![kinesis_config](C:\Winn\9760\project03\assets\kinesis_config.png)
+<img src='assets\kinesis_config.png'>
 
 
 
