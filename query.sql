@@ -1,0 +1,2 @@
+with f2 as (select name,substring(ts,11,3) as hour,ts,high,max(high) over (partition by name,substring(ts,11,3)) as max_high from "finance-data"."sta9760glue22")
+select name,ts,high,hour from f2 where high=max_high order by name,hour,ts
